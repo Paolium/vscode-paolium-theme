@@ -4,11 +4,11 @@
     "publisher": "Paolium",
     "author": "Paolium",
     "version": "1.0.0",
-    "description": "A modern and elegants themes pack.",
+    "description": "A modern and elegants themes pack",
     "license": "MIT",
     "icon": "paolium-icon.png",
     "galleryBanner": {
-        "color": "#0F1115",
+        "color": "#007A5E",
         "theme": "dark"
     },
     "engines": {
