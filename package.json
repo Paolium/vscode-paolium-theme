@@ -1,0 +1,87 @@
+{
+    "name": "paolium-theme",
+    "displayName": "Paolium Theme",
+    "publisher": "Paolium",
+    "author": "Paolium",
+    "version": "1.0.0",
+    "description": "A modern and elegants themes pack.",
+    "license": "MIT",
+    "icon": "paolium-icon.png",
+    "galleryBanner": {
+        "color": "#0F1115",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "extensionKind": ["ui"],
+    "categories": ["Themes"],
+    "keywords": [
+        "theme",
+        "dark",
+        "light",
+        "paolium",
+        "amethyst",
+        "carbon",
+        "graphite",
+        "sapphire",
+        "ruby",
+        "soft",
+        "productive",
+        "modern"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Paolium/vscode-paolium-theme/"
+    },
+    "bugs": {
+        "url": "https://github.com/Paolium/vscode-paolium-theme/issues"
+    },
+    "homepage": "https://github.com/Paolium/",
+    "contributes": {
+        "productIconThemes": [
+            {
+                "id": "paolium-product-icons",
+                "label": "Paolium Icons",
+                "path": "./product-icons/paolium-product-icon-theme.json"
+            }
+        ],
+        "themes": [
+            {
+                "label": "Paolium Carbon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium-carbon.json"
+            },
+            {
+                "label": "Paolium Amethyst",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium-amethyst.json"
+            },
+            {
+                "label": "Paolium Graphite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium-graphite.json"
+            },
+            {
+                "label": "Paolium",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium.json"
+            },
+            {
+                "label": "Paolium Light",
+                "uiTheme": "vs",
+                "path": "./themes/paolium-light.json"
+            },
+            {
+                "label": "Paolium Sapphire",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium-sapphire.json"
+            },
+            {
+                "label": "Paolium Ruby",
+                "uiTheme": "vs-dark",
+                "path": "./themes/paolium-ruby.json"
+            }
+        ]
+    }
+}

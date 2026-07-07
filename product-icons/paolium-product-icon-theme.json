@@ -1,0 +1,42 @@
+{
+  "$schema": "vscode://schemas/product-icon-theme",
+  "fonts": [
+    {
+      "id": "heroicons",
+      "src": [
+        {
+          "path": "./heroicons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "explorer-view-icon": {
+      "fontCharacter": "\\f29f",
+      "fontId": "heroicons"
+    },
+    "source-control-view-icon": {
+      "fontCharacter": "\\f121",
+      "fontId": "heroicons"
+    },
+    "run-view-icon": {
+      "fontCharacter": "\\f2fa",
+      "fontId": "heroicons"
+    },
+    "extensions-view-icon": {
+      "fontCharacter": "\\f2c8",
+      "fontId": "heroicons"
+    },
+    "settings-view-bar-icon": {
+      "fontCharacter": "\\f2ce",
+      "fontId": "heroicons"
+    },
+    "accounts-view-bar-icon": {
+      "fontCharacter": "\\f10e",
+      "fontId": "heroicons"
+    }
+  }
+}
