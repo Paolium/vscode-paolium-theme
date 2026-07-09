@@ -54,11 +54,11 @@
         // Code editor
         "editor.background": "#141414",
         "editor.foreground": "#D6DAE0",
-        "editor.selectionBackground": "#007A5E10",
+        "editor.selectionBackground": "#007A5E40",
         "editor.selectionHighlightBackground": "#007A5E20",
-        "editor.findMatchBackground": "#007A5E59",
-        "editor.findMatchHighlightBackground": "#007A5E20",
-        "editor.wordHighlightBackground": "#007A5E1A",
+        "editor.findMatchBackground": "#007A5E60",
+        "editor.findMatchHighlightBackground": "#007A5E50",
+        "editor.wordHighlightBackground": "#007A5E60",
         "editorCursor.foreground": "#007A5E",
         // Borders between editors (tabs)
         "editorGroup.border": "#007A5E10",

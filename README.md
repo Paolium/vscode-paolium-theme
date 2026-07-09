@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![Paolium Theme](https://github.com/Paolium/.github/blob/main/logos/paolium-logo-x-themes.png?raw=true)
+![Paolium Theme](https://github.com/Paolium/.github/blob/main/logos/paolium-logo-large-themes.png?raw=true)
 
 A modern and elegants themes pack.
 
