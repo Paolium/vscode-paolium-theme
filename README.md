@@ -15,6 +15,18 @@ A modern and elegants themes pack.
 - `Paolium Sapphire`
 - `Paolium Light`
 
+## Accent Colors
+
+| Variant | Accent | Notes |
+|---|---|---|
+| `Paolium` | `#D69D00` | Color name: *Goldenron*. Official name: **Paolium** (brand color) |
+| `Paolium Amethyst` | `#7A5AF8` | |
+| `Paolium Carbon` | `#95D700` | |
+| `Paolium Graphite` | `#4D4D52` | |
+| `Paolium Ruby` | `#FA4F67` | |
+| `Paolium Sapphire` | `#0D71FD` | |
+| `Paolium Light` | `#007A5E` | |
+
 ## Previews
 
 ### Paolium
