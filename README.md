@@ -4,9 +4,9 @@
 
 ![Paolium Theme](https://github.com/Paolium/.github/blob/main/logos/paolium-logo-large-themes.png?raw=true)
 
-A modern and elegants themes pack.
+Siete variantes, seis oscuras y una clara, con los colores de la marca. Un editor limpio, cómodo y profesional, pensado para jornadas largas de código.
 
-## Variants
+## Variantes
 - `Paolium`
 - `Paolium Amethyst`
 - `Paolium Carbon`
@@ -15,11 +15,11 @@ A modern and elegants themes pack.
 - `Paolium Sapphire`
 - `Paolium Light`
 
-## Accent Colors
+## Colores de acento
 
-| Variant | Accent | Notes |
+| Variante | Acento | Notas |
 |---|---|---|
-| `Paolium` | `#D69D00` | Color name: *Goldenron*. Official name: **Paolium** (brand color) |
+| `Paolium` | `#D69D00` | Color de la marca. Su nombre oficial es **Paolium**; el tono se conoce como *Goldenrod*. |
 | `Paolium Amethyst` | `#7A5AF8` | |
 | `Paolium Carbon` | `#95D700` | |
 | `Paolium Graphite` | `#4D4D52` | |
@@ -27,7 +27,7 @@ A modern and elegants themes pack.
 | `Paolium Sapphire` | `#0D71FD` | |
 | `Paolium Light` | `#007A5E` | |
 
-## Previews
+## Vistas previas
 
 ### Paolium
 ![Paolium](https://github.com/Paolium/vscode-paolium-theme/blob/main/media/Paolium.png?raw=true)
@@ -50,17 +50,18 @@ A modern and elegants themes pack.
 ### Paolium Light
 ![Paolium Light](https://github.com/Paolium/vscode-paolium-theme/blob/main/media/Light.png?raw=true)
 
-## Recommended Font
+## Fuente recomendada
 
-If you want my settings, install 'Dank Mono' and 'JetBrainsMono Nerd Font Mono' fonts, and set your editor in **settings.json**:
+Si quieres mi configuración, instala las fuentes 'Dank Mono' y 'JetBrainsMono Nerd Font Mono', y agrega esto a tu **settings.json**:
 
 ```json
   "editor.fontFamily": "'Dank Mono Regular', 'Courier New', monospace",
   "terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font Mono', 'Courier New', monospace",
 ```
 
-## Author
+## Autor
 **Ing. Christian Gómez Simón**  
 Publisher: **Paolium**
 
-> Built for developers who value elegance and precision.
+> **Paolium** · Software mexicano, minimalista y bien hecho. Diseñado al detalle. Hecho para funcionar.  
+> [paolium.web.app](https://paolium.web.app/)
